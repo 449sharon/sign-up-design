@@ -1,0 +1,131 @@
+
+.container{
+  background-image: url("../assets/50-Beautiful-and-Minimalist-Presentation-Backgrounds-018.jpg");
+  background-position: center center;
+  height: 70vh;
+  background-size: cover;
+  width:50vw;
+  display:flex;
+  flex-wrap:wrap;
+  margin: 100px auto;
+  
+
+}
+
+.wrap {
+
+  position: absolute;
+  margin-top: -900px;
+  margin-left: 30%;
+  margin-right: 25%;
+  width: 1000px;
+  background: #fff;
+  box-shadow: 10px 10px 15px #000;
+ 
+  
+}
+.p {
+  text-align: left;
+  margin-left: 30px;
+  font-family: NotoSansJP,Slack-Lato,appleLogo,sans-serif;
+ 
+}
+.feel {
+  margin-bottom: 150px;
+}
+ul  {
+  
+  margin-top: 30px;
+  text-align: left;
+  margin-left: 30px;
+}
+.logo {
+  max-height: 60px;
+  margin-top: 50px;
+}
+ form {
+
+//  background: blue;
+}
+.sidebar {
+    width: 400px;
+    background: linear-gradient(rgba(0,0,0,0.5), rgba(0,0,0,0.5)), url('../assets/moon.jpg');
+    height: 600px;
+    background-size: cover;
+    background-repeat: no-repeat;
+    text-align: center;
+    color: #fff;
+    float: left;
+    margin-right: 50px;
+    
+}
+.content {
+  height: 100%;
+}
+.form-group {
+  margin-top: 40px;
+}
+input {
+  border: none;
+  outline: none;
+  border-bottom: 2px solid rgb(173, 166, 219);;
+  width: 250px;
+
+}
+.icons {
+  max-height: 25px;
+}
+
+.separator{
+  left:300px;
+
+}
+.body{
+  display: flex;
+  overflow: hidden;
+}
+.header{
+  padding: 20px 10px;
+}
+.separator{
+  width:  20px;
+  padding-left: 25px; 
+}
+ .separator .v1{
+  height: 50%;
+  width: 2px;
+  background: rgb(173, 166, 219);
+  margin: auto;
+}
+.separator .v2{
+  height: 100%;
+  width: 2px;
+  background: rgb(127, 117, 148);
+  margin: auto;
+}
+button{
+  width: 120px;
+  margin-left: -140px;
+  margin-top: 170px;
+height: 40px;
+background-color: rgb(60, 60, 139);
+color:white;
+border-radius: 10px;
+}
+button i{
+  text-align: right;
+}
+.questionnare{
+  float: right;
+  margin-right: 130px;
+  margin-top: -90px;
+  padding-top: -700px;
+  color: darkblue;
+  vertical-align: middle;
+  
+ 
+}
+
+
+
+
